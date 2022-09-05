@@ -1,0 +1,15 @@
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\bin\Release\net6.0\Estanteria.exe
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\bin\Release\net6.0\Estanteria.deps.json
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\bin\Release\net6.0\Estanteria.runtimeconfig.json
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\bin\Release\net6.0\Estanteria.dll
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\bin\Release\net6.0\Estanteria.pdb
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\Estanteria.csproj.AssemblyReference.cache
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\Estanteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\Estanteria.AssemblyInfoInputs.cache
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\Estanteria.AssemblyInfo.cs
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\Estanteria.csproj.CoreCompileInputs.cache
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\Estanteria.dll
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\refint\Estanteria.dll
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\Estanteria.pdb
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\Estanteria.genruntimeconfig.cache
+D:\repos\Ejercicio-C02---La-Estanter-a\Estanteria\obj\Release\net6.0\ref\Estanteria.dll
