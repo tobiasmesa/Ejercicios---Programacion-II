@@ -32,12 +32,17 @@ namespace Estanteria.Clases
         public static string MostrarProducto(Producto prod)
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("Marca:");
-            sb.AppendLine(prod._marca);
-            sb.Append("Precio:");
-            sb.AppendLine(prod._precio.ToString());
-            sb.Append("Codigo de barras:");
-            sb.AppendLine((string)prod);
+            if (prod is not null)
+            {
+                sb.Append("Marca:");
+                sb.AppendLine(prod._marca);
+                sb.Append("Precio:");
+                sb.AppendLine(prod._precio.ToString());
+                sb.Append("Codigo de barras:");
+                sb.AppendLine((string)prod);
+
+            }
+        
             return sb.ToString();
 
         }
@@ -45,12 +50,16 @@ namespace Estanteria.Clases
 
         public static explicit operator string(Producto prod)
         {
-            return prod._codigoDeBarra;
+            if(prod is not null)
+            {
+                return prod._codigoDeBarra;
+            }
+            return "";
         }
         
         public static bool operator == (Producto p1, Producto p2)
         {
-            return (string)p1 == (string)p2;
+            return (string)p1 == (string)p2 && p1.GetMarca() == p2.GetMarca();
         }
 
         public static bool operator !=(Producto p1, Producto p2)
